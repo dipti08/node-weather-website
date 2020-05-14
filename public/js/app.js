@@ -1,5 +1,3 @@
-console.log('client side javascript file is loaded')
-
 //getting the data inside our client side javascript
 //we actually make the request from the client side javascript
 //'fetch'  in not part f javascript. Is not a part of node js.
